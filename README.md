@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @svimen86
 - 👀 I’m a electro mechanic that worked with solving problems / repair machines for over 20years
-- 🌱 I’m currently trying to change a careere and go into front end or back end - have not decieded yet.
+- 🌱 I’m currently dreaming to change a careere and go into front end or back end - have not decieded yet.
 -  you can reach me at svimen86@gmail.com
 
 <!---
